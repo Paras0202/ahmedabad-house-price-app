@@ -90,7 +90,7 @@ Location and amenities play a significant role
 👨‍💻 Author
 Developed by Paras Dudhat
 
-LinkedIn Profile (optional)
+LinkedIn Profile www.linkedin.com/in/paras-dudhat
 
 📄 License
 MIT License
